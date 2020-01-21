@@ -1,0 +1,13 @@
+/*
+
+This Stylesheet is for any additional css attributes that you want to apply 
+to the presentation slides/sections without altering the base stylesheets for 
+the reveal.js engine
+
+*/
+
+/****************Intro Slide****************/
+.head_sub_title {
+   padding-bottom: 40px;
+}
+
