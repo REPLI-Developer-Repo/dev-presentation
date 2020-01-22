@@ -6,3 +6,5 @@ Presentation media for REPLI Department metting 2020. This presentation covers t
 1. Workflow and Integration 
 2. Incoming Changes in 2020 
 3. Development Impact
+
+> Built with (reveal.js)[https://revealjs.com/#/]
