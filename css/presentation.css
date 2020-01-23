@@ -7,7 +7,50 @@ the reveal.js engine
 */
 
 /****************Intro Slide****************/
-.head_sub_title {
-   padding-bottom: 40px;
+.main_logo { 
+   border-radius: 360px; 
+   height: 10%; 
+   width: 10%; 
 }
 
+
+/****************Development Slide****************/
+.wf_description {
+   text-align: left;
+   font-size: 22px; 
+}
+
+.wf_list {
+   margin-top: -30px; 
+   font-size: 24px; 
+   width: 100%; 
+}
+
+.wf_list_inline_item {
+   display: inline !important; 
+   font-size: 16px; 
+   padding: 5px;
+   
+}
+
+.wf_list_item {
+   width: 500px;
+}
+
+.wf_list_header {
+   font-size: 28px; 
+}
+
+.wf_img {
+   height: 30%; 
+   width: 100%; 
+}
+
+.wf_native_description { 
+   font-size: 17px; 
+}
+
+.native_img { 
+   height: 90%; 
+   width: 200px; 
+}
